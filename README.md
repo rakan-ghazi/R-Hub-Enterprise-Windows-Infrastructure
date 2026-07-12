@@ -25,3 +25,6 @@ R-Hub is a self-built enterprise Windows infrastructure project designed to simu
 
 The complete project documentation is available in the attached PDF.
 ## Screenshots
+### Active Directory Structure
+
+![Active Directory Structure](Screenshots/1-Active-Directory-Structure.png.png)
