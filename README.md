@@ -24,3 +24,4 @@ R-Hub is a self-built enterprise Windows infrastructure project designed to simu
 ## Documentation
 
 The complete project documentation is available in the attached PDF.
+## Screenshots
